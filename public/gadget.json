@@ -1,0 +1,273 @@
+[
+  {
+    "id": 1,
+    "product_title": "Dell Inspiron 15",
+    "product_image": "https://i.ibb.co.com/Nnr4MxP/image.png",
+    "category": "Laptops",
+    "price": 650.0,
+    "description": "15.6-inch laptop with a sleek design and powerful performance for everyday tasks.",
+    "specification": [
+      "15.6 inches, Full HD",
+      "Intel Core i5",
+      "8GB",
+      "256GB SSD",
+      "42Wh"
+    ],
+    "availability": "In Stock",
+    "rating": 4.2
+  },
+  {
+    "id": 2,
+    "product_title": "iPhone 14 Pro",
+    "product_image": "https://i.ibb.co.com/R7Grxwy/image.png",
+    "category": "iPhones",
+    "price": 999.0,
+    "description": "Apple's latest iPhone with A16 Bionic chip, 5G connectivity, and an impressive camera.",
+    "specification": [
+      "6.1 inches, Super Retina XDR",
+      "A16 Bionic",
+      "6GB",
+      "128GB",
+      "48MP triple-lens"
+    ],
+    "availability": "In Stock",
+    "rating": 4.8
+  },
+  {
+    "id": 3,
+    "product_title": "Samsung Galaxy S23",
+    "product_image": "https://i.ibb.co.com/9wm6pd3/image.png",
+    "category": "Phones",
+    "price": 899.0,
+    "description": "Flagship phone from Samsung with dynamic AMOLED display and advanced camera system.",
+    "specification": [
+      "6.4 inches, Dynamic AMOLED",
+      "Snapdragon 8 Gen 2",
+      "8GB",
+      "256GB",
+      "5000mAh"
+    ],
+    "availability": "In Stock",
+    "rating": 4.6
+  },
+  {
+    "id": 4,
+    "product_title": "MacBook Air M2",
+    "product_image": "https://i.ibb.co.com/Qp7m5qh/image.png",
+    "category": "MacBooks",
+    "price": 1199.0,
+    "description": "Thin and light with M2 chip for enhanced performance and battery life.",
+    "specification": [
+      "13.3 inches, Retina",
+      "Apple M2",
+      "8GB",
+      "256GB SSD",
+      "18 hours"
+    ],
+    "availability": "In Stock",
+    "rating": 4.9
+  },
+  {
+    "id": 5,
+    "product_title": "Apple Watch Series 8",
+    "product_image": "https://i.ibb.co.com/zJgQSzV/image.png",
+    "category": "Smartwatches",
+    "price": 399.0,
+    "description": "Advanced health-tracking smartwatch with ECG and blood oxygen monitoring.",
+    "specification": [
+      "Always-On Retina",
+      "18 hours",
+      "50 meters",
+      "GPS",
+      "WiFi",
+      "Bluetooth"
+    ],
+    "availability": "In Stock",
+    "rating": 4.7
+  },
+  {
+    "id": 6,
+    "product_title": "Sony WH-1000XM5",
+    "product_image": "https://i.ibb.co.com/Nsp3825/image.png",
+    "category": "Accessories",
+    "price": 349.99,
+    "description": "Industry-leading noise-cancelling headphones with up to 30 hours of battery life.",
+    "specification": [
+      "Bluetooth 5.2",
+      "30 hours",
+      "USB-C",
+      "Noise-cancelling, touch controls"
+    ],
+    "availability": "In Stock",
+    "rating": 4.9
+  },
+  {
+    "id": 7,
+    "product_title": "Google Pixel 7",
+    "product_image": "https://i.ibb.co.com/x5SV9L2/image.png",
+    "category": "Phones",
+    "price": 599.0,
+    "description": "Pixel phone with Google Tensor chip, amazing camera quality, and pure Android experience.",
+    "specification": [
+      "6.3 inches, OLED",
+      "Google Tensor G2",
+      "8GB",
+      "128GB",
+      "4355mAh"
+    ],
+    "availability": "In Stock",
+    "rating": 4.5
+  },
+  {
+    "id": 8,
+    "product_title": "Samsung Galaxy Watch 5",
+    "product_image": "https://i.ibb.co.com/hMWtF49/image.png",
+    "category": "Smartwatches",
+    "price": 279.99,
+    "description": "Smartwatch with fitness tracking and advanced health monitoring features.",
+    "specification": [
+      "AMOLED",
+      "40 hours",
+      "50 meters",
+      "Bluetooth",
+      "GPS",
+      "WiFi"
+    ],
+    "availability": "In Stock",
+    "rating": 4.3
+  },
+  {
+    "id": 9,
+    "product_title": "Lenovo ThinkPad X1 Carbon",
+    "product_image": "https://i.ibb.co.com/X24StRH/image.png",
+    "category": "Laptops",
+    "price": 1399.0,
+    "description": "High-end business laptop with a durable build and top-notch performance.",
+    "specification": [
+      "14 inches, Full HD",
+      "Intel Core i7",
+      "16GB",
+      "512GB SSD",
+      "57Wh"
+    ],
+    "availability": "In Stock",
+    "rating": 4.7
+  },
+  {
+    "id": 10,
+    "product_title": "MacBook Pro M2",
+    "product_image": "https://i.ibb.co.com/kcQKGHP/image.png",
+    "category": "MacBooks",
+    "price": 1999.0,
+    "description": "Powerful laptop with M2 chip, ideal for creative professionals.",
+
+    "specification": [
+      "14 inches, Retina",
+      "Apple M2",
+      "16GB",
+      "512GB SSD",
+      "20 hours"
+    ],
+    "availability": "In Stock",
+    "rating": 4.8
+  },
+  {
+    "id": 11,
+    "product_title": "iPhone 13 Mini",
+    "product_image": "https://i.ibb.co.com/qJh3fJc/image.png",
+    "category": "iPhones",
+    "price": 699.0,
+    "description": "Compact smartphone with powerful features and excellent camera quality.",
+    "specification": [
+      "5.4 inches, Super Retina XDR",
+      "A15 Bionic",
+      "4GB",
+      "128GB",
+      "12MP dual-lens"
+    ],
+    "availability": "In Stock",
+    "rating": 4.6
+  },
+  {
+    "id": 12,
+    "product_title": "Anker PowerCore 10000",
+    "product_image": "https://i.ibb.co.com/RyrRQFd/image.png",
+    "category": "Accessories",
+    "price": 25.99,
+    "description": "Compact and powerful power bank with 10000mAh capacity.",
+    "specification": [
+      "10000mAh",
+      "USB-A",
+      "Fast charging, compact design",
+      "180g"
+    ],
+    "availability": "In Stock",
+    "rating": 4.8
+  },
+
+  {
+    "id": 13,
+    "product_title": "Samsung Galaxy S23 Ultra",
+    "product_image": "https://i.ibb.co.com/QmZHxrQ/image.png",
+    "category": "Phones",
+    "price": 1199.0,
+    "description": "High-end Samsung phone with an advanced camera and S Pen support.",
+    "specification": [
+      "6.8 inches, Dynamic AMOLED",
+      "Snapdragon 8 Gen 2",
+      "12GB",
+      "512GB",
+      "5000mAh"
+    ],
+    "availability": "In Stock"
+  },
+  {
+    "id": 14,
+    "product_title": "Samsung Galaxy S22",
+    "product_image": "https://i.ibb.co.com/6RfCc8Y/image.png",
+    "category": "Phones",
+    "price": 699.0,
+    "description": "Previous generation Samsung Galaxy with excellent display and performance.",
+    "specification": [
+      "6.1 inches, Dynamic AMOLED",
+      "Snapdragon 8 Gen 1",
+      "8GB",
+      "128GB",
+      "3700mAh"
+    ],
+    "availability": "Out of Stock"
+  },
+
+  {
+    "id": 16,
+    "product_title": "Google Pixel 7 Pro",
+    "product_image": "https://i.ibb.co.com/7n90tQ3/image.png",
+    "category": "Phones",
+    "price": 899.0,
+    "description": "Google's latest phone with Tensor G2 chip and Pixel-exclusive features.",
+    "specification": [
+      "6.7 inches, LTPO OLED",
+      "Google Tensor G2",
+      "12GB",
+      "256GB",
+      "5000mAh"
+    ],
+    "availability": "In Stock"
+  },
+  {
+    "id": 17,
+    "product_title": "OnePlus 11",
+    "product_image": "https://i.ibb.co.com/ZzBdpzh/image.png",
+    "category": "Phones",
+    "price": 749.0,
+    "description": "Flagship OnePlus phone with fast charging and high-refresh-rate display.",
+    "specification": [
+      "6.7 inches, AMOLED",
+      "Snapdragon 8 Gen 2",
+      "16GB",
+      "256GB",
+      "5000mAh"
+    ],
+    "availability": "In Stock"
+  }
+]
