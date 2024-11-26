@@ -47,3 +47,5 @@ I using localStorage to store and retrieve data on the client-side. This is usef
 - Add to Cart and Wishlist Functionality
 - Dynamic Product Details Page
 - Sorting and Filtering Options
+
+<img src='https://i.ibb.co.com/QMTHVnD/Gadget-Heaven.png' />
